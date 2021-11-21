@@ -5,6 +5,8 @@ Due to the volatility of cryptocurrency speculation, investors will often try to
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](file:///C:/Users/aelri/Downloads/Price%20Plot%20vs%20Predicted%20for%20closing%20price.PNG)
 
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Evaluate the performance of each model
 
@@ -14,7 +16,7 @@ A:LSTM Closing Stock Predictor has a lower loss.
 
 Which model tracks the actual values better over time?
 
-A:Closing price predictor model tracks the actual values better over time.
+A:Closing price predictor model tracks the actual values better.
 
 Which window size works best for the model?
 
